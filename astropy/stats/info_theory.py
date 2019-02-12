@@ -391,8 +391,6 @@ def akaike_info_criterion_lsq(ssr, n_params, n_samples):
 
     References
     ----------
-    .. [1] Akaike Information Criteria
-       <http://avesbiodiv.mncn.csic.es/estadistica/ejemploaic.pdf>
     .. [2] Hu, S. Akaike Information Criterion.
        <http://www4.ncsu.edu/~shu3/Presentation/AIC.pdf>
     .. [3] Origin Lab. Comparing Two Fitting Functions.
