@@ -391,9 +391,9 @@ def akaike_info_criterion_lsq(ssr, n_params, n_samples):
 
     References
     ----------
-    .. [2] Hu, S. Akaike Information Criterion.
+    .. [1] Hu, S. Akaike Information Criterion.
        <http://www4.ncsu.edu/~shu3/Presentation/AIC.pdf>
-    .. [3] Origin Lab. Comparing Two Fitting Functions.
+    .. [2] Origin Lab. Comparing Two Fitting Functions.
        <http://www.originlab.com/doc/Origin-Help/PostFit-CompareFitFunc>
     """
 
