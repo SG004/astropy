@@ -408,6 +408,7 @@ but if you use pip, you will need to install Graphviz separately as it isn't
 a Python package.
 
 .. _astropy-doc-building:
+
 Building
 ^^^^^^^^
 

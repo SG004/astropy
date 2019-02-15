@@ -30,7 +30,7 @@ on masked arrays
    array including one or more ``NaN's`` will result in ``NaN``.
 
    See `<https://www.numpy.org/neps/>`_ for information on NumPy
-   Enhancement Proposals.
+   Enhancement Proposals 24, 25, and 26.
 
 Table creation
 ===============
