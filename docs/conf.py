@@ -228,7 +228,7 @@ except ImportError:
                  'to this.')
 # -- Options for linkcheck output -------------------------------------------
 linkcheck_retry = 3
-linkcheck_timeout = 20
+linkcheck_timeout = 30
 linkcheck_anchors = False
 # Add any extra paths that contain custom files (such as robots.txt or
 # .htaccess) here, relative to this directory. These files are copied
